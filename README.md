@@ -1,7 +1,4 @@
-![High Volume Architecture](architecture.png)
 
- <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/71f855e0-630c-43ea-bf01-f8d4c274a7cb" /> 
- 
  ### Business Context
 
 A financial trading system was receiving approximately 17 million order book records as flat text files from an external market data feed.
